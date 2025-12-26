@@ -76,5 +76,3 @@ Need help setting up?
 * **Email Support:** support@nafcorp.com.au
 
 ---
-
-*Copyright © 2024 NAFCORP TECHNOLOGIES. All Rights Reserved.*
