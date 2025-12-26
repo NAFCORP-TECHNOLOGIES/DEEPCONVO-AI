@@ -20,7 +20,7 @@ Most chatbots isn't perfect. They give generic answers and annoy customers.
 
 ---
 
-## 📥 Installation
+## 📥 Wordpress Plugin Installation
 
 1. **Download:** Get the `DEEPCONVO-AI.zip` file from your purchase confirmation.
 2. **Upload:** Go to your WordPress Dashboard → **Plugins** → **Add New** → **Upload Plugin**.
